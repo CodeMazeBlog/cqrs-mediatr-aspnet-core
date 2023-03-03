@@ -1,12 +1,10 @@
 ﻿using CqrsMediatrExample.DataStore;
 using CqrsMediatrExample.Queries;
 using MediatR;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace CqrsMediatrExample.Handlers
 {
-	public class GetProductByIdHandler : IRequestHandler<GetProductByIdQuery, Product>
+    public class GetProductByIdHandler : IRequestHandler<GetProductByIdQuery, Product>
 	{
 		private readonly FakeDataStore _fakeDataStore;
 

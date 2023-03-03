@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31521.260
+VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrExample", "CqrsMediatrExample\CqrsMediatrExample.csproj", "{2E64EE66-7976-47FE-A2FC-7837BCDF48BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrExample", "CqrsMediatrExample\CqrsMediatrExample.csproj", "{02DDA30E-ACFF-4452-AD08-649DB97C9B88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2E64EE66-7976-47FE-A2FC-7837BCDF48BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E64EE66-7976-47FE-A2FC-7837BCDF48BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E64EE66-7976-47FE-A2FC-7837BCDF48BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E64EE66-7976-47FE-A2FC-7837BCDF48BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DDA30E-ACFF-4452-AD08-649DB97C9B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DDA30E-ACFF-4452-AD08-649DB97C9B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DDA30E-ACFF-4452-AD08-649DB97C9B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DDA30E-ACFF-4452-AD08-649DB97C9B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {67D71C36-9607-41C7-8CAD-A4B0817EC8A3}
+		SolutionGuid = {777F3D98-FB50-4E74-9BD9-CAE4936B54AC}
 	EndGlobalSection
 EndGlobal
